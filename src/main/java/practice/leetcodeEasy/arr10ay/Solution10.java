@@ -19,5 +19,7 @@ public class Solution10 {
         String sentence = "thequickbrownfoxjumpsoverthelazydog";
         System.out.println(checkIfPangram(sentence));
         System.out.println("Solution10 ");
+        System.out.println("Hello");
+        System.out.println("Hello11");
     }
 }
